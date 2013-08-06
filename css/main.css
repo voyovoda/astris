@@ -1,0 +1,10 @@
+@font-face
+{
+	font-family:beeb;
+	src: url("../beeb/beeb.ttf");
+}
+
+body
+{
+	background-color: #000000;
+}
