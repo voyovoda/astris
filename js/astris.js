@@ -419,9 +419,11 @@ Astris.prototype.keydown = function(event)
 {
 	switch(event.keyCode)
 	{
+		case 90://z
 		case 37://left
 			this.moveLeft();
 			break;
+		case 88://x
 		case 39://right
 			this.moveRight();
 			break;
